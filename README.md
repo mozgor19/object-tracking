@@ -24,7 +24,7 @@ The GOTURN algorithm utilizes a regression network and object bounding boxes to 
 
 ## Usage
 
-1. Download the pre-trained GOTURN model files `goturn.prototxt` and `goturn.caffemodel` from goturn-files folder.
+1. Download the pre-trained GOTURN model files `goturn.prototxt` and `goturn.caffemodel` from [here](https://www.dropbox.com/s/ld535c8e0vueq6x/opencv_bootcamp_assets_NB11.zip?dl=1).
 2. Place the downloaded `goturn.prototxt` and `goturn.caffemodel` files in the same directory as the Python script.
 3. Update the `prototxt` and `model` variables in the Python script with the filenames of the downloaded files.
 4. Set the `video_path` variable to the path of the input video file.
